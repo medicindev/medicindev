@@ -1,15 +1,15 @@
-# 🌊 Aqua - Full Stack Virtuoso & Arivell Team Lead
+# 🌊 Aqua - Arivell Team Lead
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AQUA&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aqua&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%E2%9C%A8+MASTER+OF+ALL+STACKS+%E2%9C%A8;%F0%9F%9A%80+ARIVELL+TEAM+ARCHITECT+%F0%9F%9A%80;%F0%9F%92%8E+POLYGLOT+PROGRAMMER+%F0%9F%92%8E;%E2%9A%A1+PERFORMANCE+WIZARD+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%9C%A8+MASTER+OF+ALL+STACKS+%E2%9C%A8;%F0%9F%9A%80+ARIVELL+TEAM+ARCHITECT+%F0%9F%9A%80;%F0%9F%92%8E+POLYGLOT+PROGRAMMER+%F0%9F%92%8E;%E2%9A%A1+PERFORMANCE+WIZARD+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <div align="center">

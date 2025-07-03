@@ -17,7 +17,7 @@
 [![Followers](https://img.shields.io/github/followers/medicindev?style=for-the-badge&logo=github&logoColor=white&color=6366f1&labelColor=1e293b)](https://github.com/medicindev)
 [![Stars](https://img.shields.io/github/stars/medicindev?style=for-the-badge&logo=github&logoColor=white&color=f59e0b&labelColor=1e293b)](https://github.com/medicindev)
 [![Profile Views](https://komarev.com/ghpvc/?username=medicindev&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS)](https://github.com/medicindev)
-[![Commits](https://badges.pufler.dev/commits/all/medicindev?style=for-the-badge&color=10b981&labelColor=1e293b)](https://github.com/medicindev)
+[![Commits](https://badges.pufler.dev/commits/all/username=medicindev?style=for-the-badge&color=10b981&labelColor=1e293b)](https://github.com/medicindev)
 
 </div>
 
@@ -341,22 +341,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 
-### **🚀 Leading Innovation at Arivell**
-
-```typescript
-// Team coordination and project excellence
-const teamLead = {
-  responsibilities: [
-    'Architecture decisions',
-    'Code review oversight', 
-    'Performance optimization',
-    'Technical mentoring'
-  ],
-  approach: 'Collaborative leadership',
-  focus: 'Scalable solutions'
-};
-```
-
 </div>
 
 ---
@@ -399,7 +383,7 @@ const teamLead = {
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
+![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=openglblender&logoColor=white)
 
 </div>
 

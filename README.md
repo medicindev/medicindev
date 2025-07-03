@@ -12,14 +12,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%9C%A8+MASTER+OF+FULL+STACKS+%E2%9C%A8;%F0%9F%9A%80+E-COMMERCE+SCRAPING+SYSTEM+%F0%9F%9A%80;%F0%9F%92%8E+POLYGLOT+PROGRAMMER+%F0%9F%92%8E;%E2%9A%A1+PERFORMANCE+WIZARD+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
-<!-- <div align="center">
+<div align="center">
   
-[![Followers](https://img.shields.io/github/followers/menchan-Rub?style=for-the-badge&logo=github&logoColor=white&color=6366f1&labelColor=1e293b)](https://github.com/menchan-Rub)
-[![Stars](https://img.shields.io/github/stars/menchan-Rub?style=for-the-badge&logo=github&logoColor=white&color=f59e0b&labelColor=1e293b)](https://github.com/menchan-Rub)
-[![Profile Views](https://komarev.com/ghpvc/?username=menchan-Rub&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS)](https://github.com/menchan-Rub)
-[![Commits](https://badges.pufler.dev/commits/all/menchan-Rub?style=for-the-badge&color=10b981&labelColor=1e293b)](https://github.com/menchan-Rub)
+[![Followers](https://img.shields.io/github/followers/medicindev?style=for-the-badge&logo=github&logoColor=white&color=6366f1&labelColor=1e293b)](https://github.com/medicindev)
+[![Stars](https://img.shields.io/github/stars/medicindev?style=for-the-badge&logo=github&logoColor=white&color=f59e0b&labelColor=1e293b)](https://github.com/medicindev)
+[![Profile Views](https://komarev.com/ghpvc/?username=medicindev&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS)](https://github.com/medicindev)
+[![Commits](https://badges.pufler.dev/commits/all/medicindev?style=for-the-badge&color=10b981&labelColor=1e293b)](https://github.com/medicindev)
 
-</div> -->
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -47,16 +47,6 @@
 💻 I love writing code and learn anythings about it
 
 📚 I’m currently learning how to build E-Commerce Website with Django
-
-<!-- ```javascript
-const Fullstack = {
-  role: "Arivell Team Lead & Full Stack Virtuoso",
-  philosophy: "Perfection through Innovation",
-  languages: "30+ and counting...",
-  specialty: "Making impossible possible",
-  motto: "Code is Art, Performance is Poetry"
-};
-``` -->
 
 </td>
 </tr>
@@ -328,9 +318,9 @@ const Fullstack = {
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medicindev&layout=compact&langs_count=20&theme=tokyonight&border_radius=15&bg_color=0d1117&border_color=30363d"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=medicindev&theme=tokyonight&border_radius=15&background=0d1117&border=30363d" alt="streak stats"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=medicindev&theme=tokyo-night&custom_title=Code%20Symphony%20-%20Contribution%20Graph&hide_border=true&border_radius=15" />
@@ -338,114 +328,15 @@ const Fullstack = {
 
 ---
 
-## 🏆 **Digital Achievements**
+## 🏆 **Web Development Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=menchan-Rub&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=medicindev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" />
 </div>
 
 ---
 
-## 🎯 **Current Masterpieces**
-
-<div align="center">
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-### 🌌 **Quantum Computing Platform**
-```typescript
-// Revolutionary quantum algorithms
-const quantumSuperposition = {
-  performance: "∞ qubits/second",
-  complexity: "O(log n)",
-  applications: ["Cryptography", "AI", "Simulation"],
-  status: "Reality-bending"
-};
-```
-
-</td>
-<td width="50%" align="center">
-
-### 🧬 **Neural Architecture Search**
-```python
-# Self-evolving AI systems
-neural_evolution = {
-    "generations": 10000,
-    "mutation_rate": 0.001,
-    "fitness_function": "universal_intelligence",
-    "convergence": "approaching_singularity"
-}
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🌐 **Distributed Edge Computing**
-```rust
-// Microsecond-latency global network
-struct EdgeNode {
-    latency: Duration::from_nanos(100),
-    throughput: u64::MAX,
-    reliability: 99.9999,
-    auto_scaling: true
-}
-```
-
-</td>
-<td width="50%" align="center">
-
-### 🔮 **Predictive Code Generation**
-```go
-// AI that writes AI
-type CodeOracle struct {
-    Languages    []string // All of them
-    Paradigms    []string // Including future ones
-    Efficiency   float64  // Always > 99.9%
-    Creativity   int      // Unmeasurable
-}
-```
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🎨 **The Philosophy**
-
-<div align="center">
-<table>
-<tr>
-<td width="25%" align="center">
-🎭<br**PERFECTIONISM**<br>
-*Every semicolon matters*
-</td>
-<td width="25%" align="center">
-⚡<br>
-**INNOVATION**<br>
-*Tomorrow's tech today*
-</td>
-<td width="25%" align="center">
-🌊<br>
-**FLUIDITY**<br>
-*Adapting like water*
-</td>
-<td width="25%" align="center">
-🎯<br>
-**PRECISION**<br>
-*Millisecond accuracy*
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🌟 **Arivell Team Leadership**
+## 🌟 **Team Leadership**
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
@@ -478,6 +369,7 @@ const teamLead = {
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Google meet](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 ### **📋 PROJECT ORCHESTRATION**
@@ -490,56 +382,8 @@ const teamLead = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-![Zeplin](https://img.shields.io/badge/Zeplin-F5A623?style=for-the-badge&logo=zeplin&logoColor=white)
 
 </div>
-
----
-
-## 🌸 **Code Poetry Gallery**
-
-<div align="center">
-<table width="100%">
-<tr>
-<td width="50%">
-
-### **✨ Functional Beauty**
-```haskell
--- Elegant mathematics in code
-fibonacci :: Integer -> Integer
-fibonacci n = fib' n 0 1
-  where
-    fib' 0 a _ = a
-    fib' n a b = fib' (n-1) b (a+b)
-
--- Beauty in simplicity
-compose :: (b -> c) -> (a -> b) -> a -> c
-compose f g x = f (g x)
-```
-
-</td>
-<td width="50%">
-
-### **🔥 Performance Art**
-```rust
-// Zero-cost abstractions
-use std::simd::*;
-
-#[inline(always)]
-fn vectorized_sum(data: &[f32]) -> f32 {
-    data.array_chunks::<8>()
-        .map(|chunk| f32x8::from_array(*chunk))
-        .fold(f32x8::splat(0.0), |acc, x| acc + x)
-        .reduce_sum()
-}
-```
-
-</td>
-</tr>
-</table>
-</div>
-
----
 
 ## 🎮 **Gaming & Creative Tech**
 
@@ -559,58 +403,6 @@ fn vectorized_sum(data: &[f32]) -> f32 {
 
 </div>
 
----
-
-## 🔮 **Future Vision Board**
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b025-95ceb9e0a07f.gif" width="300" />
-
-### **🛸 Next-Gen Technologies**
-```typescript
-interface FutureTech {
-  quantumComputing: 'Q# + Qiskit + Cirq';
-  neuralInterfaces: 'BCI + Advanced APIs';
-  spatialComputing: 'AR/VR + Holographic';
-  biotech: 'CRISPR + Synthetic Biology';
-  sustainability: 'Carbon-negative coding';
-  aiIntegration: 'GPT + Custom Models';
-}
-
-const roadmap2025: FutureTech = {
-  quantumComputing: 'Building quantum-classical hybrid systems',
-  neuralInterfaces: 'Direct brain-computer collaboration',
-  spatialComputing: 'Immersive development environments',
-  biotech: 'DNA-based data storage solutions',
-  sustainability: 'Green algorithms for climate tech',
-  aiIntegration: 'Intelligent coding assistants'
-};
-```
-
-</div>
-
----
-
-## 🌈 **Community Impact**
-
-<div align="center">
-
-### **🌱 KNOWLEDGE SHARING**
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-
-### **🎯 OPEN SOURCE CONTRIBUTIONS**
-```bash
-# Contributing to the developer community
-git log --oneline --author="Full-Stack" | wc -l
-# → 50,000+ contributions across repositories
-```
-
-</div>
-
----
 
 ## 🎭 **Personal Mantras**
 

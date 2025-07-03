@@ -1,16 +1,16 @@
-# 🌊 Aqua - Arivell Team Lead
+# 🌊 Senior Software Engineer & Software Developer
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aqua&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Full-Stack&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%9C%A8+MASTER+OF+ALL+STACKS+%E2%9C%A8;%F0%9F%9A%80+ARIVELL+TEAM+ARCHITECT+%F0%9F%9A%80;%F0%9F%92%8E+POLYGLOT+PROGRAMMER+%F0%9F%92%8E;%E2%9A%A1+PERFORMANCE+WIZARD+%E2%9A%A1" alt="Typing SVG" />
-</div>
+</div> -->
 
 <div align="center">
   
@@ -27,7 +27,7 @@
 
 ---
 
-## 🎭 **The Artist Behind The Code**
+## 🎭 **Senior Software Engineer**
 
 <div align="center">
 <table>
@@ -37,12 +37,16 @@
 </td>
 <td width="65%" align="left">
 
-### 🌟 **Digital Architect & Code Poet**
+### 🌟 **Frontend & Backend Coding**
 
-> *"Crafting digital masterpieces with code, leading Arivell team through uncharted technological territories. Every line of code is a brushstroke, every system architecture is a symphony."*
+> 
+🔬 I'm currently working as a freeancer and have much experience over 7 years
+🎓 I graduated from City University of Hong Kong Computer Science Department
+💻 I love writing code and learn anythings about it
+📚 I’m currently learning how to build E-Commerce Website with Django
 
 ```javascript
-const aqua = {
+const Fullstack = {
   role: "Arivell Team Lead & Full Stack Virtuoso",
   philosophy: "Perfection through Innovation",
   languages: "30+ and counting...",
@@ -58,7 +62,7 @@ const aqua = {
 
 ---
 
-## 🎨 **Master of Digital Arts**
+## 🎨 **Master of Computer Science**
 
 <div align="center">
 <table width="100%">
@@ -615,7 +619,7 @@ const roadmap2025: FutureTech = {
 ### **🎯 OPEN SOURCE CONTRIBUTIONS**
 ```bash
 # Contributing to the developer community
-git log --oneline --author="Aqua" | wc -l
+git log --oneline --author="Full-Stack" | wc -l
 # → 50,000+ contributions across repositories
 ```
 
@@ -663,5 +667,5 @@ git log --oneline --author="Aqua" | wc -l
   <br>
   <strong>✨ "In code we trust, in performance we excel" ✨</strong>
   <br>
-  <em>— Aqua, Master of Digital Realms</em>
+  <em>— Senior Software Engineer & Software Developer</em>
 </div>

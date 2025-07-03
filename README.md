@@ -324,7 +324,7 @@ const Fullstack = {
 ## 📊 **Performance Analytics**
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=menchan-Rub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0d1117&border_color=30363d"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=medicindev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0d1117&border_color=30363d"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medicindev&layout=compact&langs_count=20&theme=tokyonight&border_radius=15&bg_color=0d1117&border_color=30363d"/>
 </div>
 

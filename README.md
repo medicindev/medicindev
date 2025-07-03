@@ -8,18 +8,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Full-Stack&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%9C%A8+MASTER+OF+ALL+STACKS+%E2%9C%A8;%F0%9F%9A%80+ARIVELL+TEAM+ARCHITECT+%F0%9F%9A%80;%F0%9F%92%8E+POLYGLOT+PROGRAMMER+%F0%9F%92%8E;%E2%9A%A1+PERFORMANCE+WIZARD+%E2%9A%A1" alt="Typing SVG" />
-</div> -->
-
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%9C%A8+MASTER+OF+FULL+STACKS+%E2%9C%A8;%F0%9F%9A%80+E-COMMERCE+SCRAPING+SYSTEM+%F0%9F%9A%80;%F0%9F%92%8E+POLYGLOT+PROGRAMMER+%F0%9F%92%8E;%E2%9A%A1+PERFORMANCE+WIZARD+%E2%9A%A1" alt="Typing SVG" />
+</div>
+
+<!-- <div align="center">
   
 [![Followers](https://img.shields.io/github/followers/menchan-Rub?style=for-the-badge&logo=github&logoColor=white&color=6366f1&labelColor=1e293b)](https://github.com/menchan-Rub)
 [![Stars](https://img.shields.io/github/stars/menchan-Rub?style=for-the-badge&logo=github&logoColor=white&color=f59e0b&labelColor=1e293b)](https://github.com/menchan-Rub)
 [![Profile Views](https://komarev.com/ghpvc/?username=menchan-Rub&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS)](https://github.com/menchan-Rub)
 [![Commits](https://badges.pufler.dev/commits/all/menchan-Rub?style=for-the-badge&color=10b981&labelColor=1e293b)](https://github.com/menchan-Rub)
 
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -40,12 +40,15 @@
 ### 🌟 **Frontend & Backend Coding**
 
 > 
-🔬 I'm currently working as a freeancer and have much experience over 7 years
+🔬 I'm currently working as a freeancer and have much experience over 7 years  
+
 🎓 I graduated from City University of Hong Kong Computer Science Department
+
 💻 I love writing code and learn anythings about it
+
 📚 I’m currently learning how to build E-Commerce Website with Django
 
-```javascript
+<!-- ```javascript
 const Fullstack = {
   role: "Arivell Team Lead & Full Stack Virtuoso",
   philosophy: "Perfection through Innovation",
@@ -53,7 +56,7 @@ const Fullstack = {
   specialty: "Making impossible possible",
   motto: "Code is Art, Performance is Poetry"
 };
-```
+``` -->
 
 </td>
 </tr>
@@ -93,11 +96,11 @@ const Fullstack = {
 
 ---
 
-## 🌈 **The Polyglot Arsenal**
+## 🌈 **MY SKILLS**
 
 <div align="center">
 
-### **🔥 SYSTEMS & LOW-LEVEL**
+### **🔥 SYSTEMS & MIDDLE-LEVEL**
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -127,13 +130,6 @@ const Fullstack = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### **🔬 SCIENTIFIC & SPECIALIZED**
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
-![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge)
-
 ### **🎯 EMERGING & ESOTERIC**
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
@@ -145,7 +141,7 @@ const Fullstack = {
 
 ---
 
-## 🎪 **The Frontend Universe**
+## 🎪 **For Frontend Development **
 
 <div align="center">
 
@@ -182,14 +178,13 @@ const Fullstack = {
 
 ---
 
-## 🏰 **The Backend Kingdom**
+## 🏰 **For Backend Development**
 
 <div align="center">
 
 ### **🚀 NODE.JS ECOSYSTEM**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Koa](https://img.shields.io/badge/Koa-33333D?style=for-the-badge&logo=koa&logoColor=white)
 
@@ -197,19 +192,9 @@ const Fullstack = {
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tornado](https://img.shields.io/badge/Tornado-FE7A16?style=for-the-badge)
-![Pyramid](https://img.shields.io/badge/Pyramid-3776AB?style=for-the-badge)
 
 ### **💎 RUBY ELEGANCE**
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Sinatra](https://img.shields.io/badge/Sinatra-000000?style=for-the-badge)
-![Hanami](https://img.shields.io/badge/Hanami-CC342D?style=for-the-badge)
-
-### **☕ JVM POWERHOUSE**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
-![Micronaut](https://img.shields.io/badge/Micronaut-2E5BBA?style=for-the-badge)
-![Play Framework](https://img.shields.io/badge/Play_Framework-092E20?style=for-the-badge)
 
 ### **⚡ HIGH-PERFORMANCE**
 ![Actix Web](https://img.shields.io/badge/Actix_Web-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -222,7 +207,7 @@ const Fullstack = {
 
 ---
 
-## 🎮 **Mobile & Desktop Mastery**
+<!-- ## 🎮 **Mobile & Desktop Mastery**
 
 <div align="center">
 
@@ -246,8 +231,8 @@ const Fullstack = {
 
 </div>
 
----
-
+--- -->
+<!-- 
 ## 🌌 **Cloud & Infrastructure Galaxy**
 
 <div align="center">
@@ -277,9 +262,9 @@ const Fullstack = {
 ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE6?style=for-the-badge&logo=Jaeger&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
 
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 ## 🗄️ **Database Multiverse**
 
@@ -297,7 +282,7 @@ const Fullstack = {
 ![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apache-couchdb&logoColor=white)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=black)
 
-### **⚡ IN-MEMORY & CACHE**
+<!-- ### **⚡ IN-MEMORY & CACHE**
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Memcached](https://img.shields.io/badge/Memcached-005571?style=for-the-badge)
 ![Apache Ignite](https://img.shields.io/badge/Apache%20Ignite-FF6A00?style=for-the-badge)
@@ -305,7 +290,7 @@ const Fullstack = {
 ### **🌐 GRAPH & VECTOR**
 ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![Weaviate](https://img.shields.io/badge/Weaviate-00D4FF?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-00D4FF?style=for-the-badge) -->
 
 </div>
 
@@ -340,15 +325,15 @@ const Fullstack = {
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=menchan-Rub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0d1117&border_color=30363d"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menchan-Rub&layout=compact&langs_count=20&theme=tokyonight&border_radius=15&bg_color=0d1117&border_color=30363d"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medicindev&layout=compact&langs_count=20&theme=tokyonight&border_radius=15&bg_color=0d1117&border_color=30363d"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menchan-Rub&theme=tokyonight&border_radius=15&background=0d1117&border=30363d" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medicindev&theme=tokyonight&border_radius=15&background=0d1117&border=30363d" alt="streak stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=menchan-Rub&theme=tokyo-night&custom_title=Code%20Symphony%20-%20Contribution%20Graph&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medicindev&theme=tokyo-night&custom_title=Code%20Symphony%20-%20Contribution%20Graph&hide_border=true&border_radius=15" />
 </div>
 
 ---
